@@ -1,16 +1,6 @@
 {% assign posts = site.posts %}
 
-{% if site.paginate > 0 %}
-    {% assign posts = paginator.posts %}
-    <h1 class="post-title">
-        {{ post.title }}
-    </h1>
-    {% if post.subtitle %}
-    <h3 class="post-subtitle">
-        {{ post.subtitle }}
-    </h3>
-    {% endif %}
-{% endif %}
+{% if site.paginate > 0 %}{% assign posts = paginator.posts %}{% endif %}
 
 <section id="posts" class="posts-expand">
   {% for post in posts %}
