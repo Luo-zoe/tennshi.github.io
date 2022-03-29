@@ -5,7 +5,7 @@
 
 # Site
 title: Luo's Blog
-subtitle:洛のこや
+subtitle: 洛のこや
 description:
 author: zoe
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -108,7 +108,7 @@ canonical: true
 seo: false
 
 # If true, will add site-subtitle to index page, added in jekyll config.
-# subtitle: Subtitle
+subtitle: 洛のこや
 index_with_subtitle: true
 
 # ---------------------------------------------------------------
@@ -233,7 +233,7 @@ social_icons:
 
 
 # Sidebar Avatar
-# in directory: /assets/images/avatar.gif
+in directory: /assets/images/avatar.gif
 #avatar:
 
 
