@@ -122,7 +122,7 @@ menu:
   about: /about/
   archives: /archives/
   tags: /tags/
-  sitemap: /sitemap.xml
+  #sitemap: /sitemap.xml
   #commonweal: /404.html
 
 
@@ -140,7 +140,7 @@ menu_icons:
   schedule: calendar
   tags: tags
   archives: archive
-  sitemap: sitemap
+  #sitemap: sitemap
   commonweal: heartbeat
 
 
@@ -376,7 +376,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: c07b094b89922013a2a3a6e7c036a563
 
 # Duoshuo ShortName
 #duoshuo_shortname:
