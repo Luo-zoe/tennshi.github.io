@@ -5,7 +5,7 @@
 
 # Site
 title: Luo's Blog
-subtitle:洛的小站
+subtitle:洛のこや
 description:
 author: zoe
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -632,7 +632,7 @@ pace: false
 pace_theme: pace-theme-minimal
 
 # Canvas-nest
-canvas_nest: false
+canvas_nest: true
 
 # three_waves
 three_waves: false
