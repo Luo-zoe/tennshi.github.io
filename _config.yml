@@ -214,7 +214,7 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
-  Github: https://giyhub.com/Luo-zoe
+  Github: https://github.com/Luo-zoe
   Weibo: https://weibo.com/u/7475172110
   知乎: https://www.zhihu.com/people/l_zoe
   B站: https://space.bilibili.com/490637157?spm_id_from=333.337.0.0
