@@ -5,7 +5,7 @@
 
 # Site
 title: Luo's Blog
-subtitle:
+subtitle:洛的小站
 description:
 author: zoe
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -152,8 +152,8 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-scheme: Mist
-#scheme: Pisces
+#scheme: Mist
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
