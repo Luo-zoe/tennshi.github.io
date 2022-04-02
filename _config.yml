@@ -7,7 +7,7 @@
 title: Luo's Blog
 subtitle: 洛のこや
 description:
-author: zoe
+author: 洛zoe
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -236,8 +236,9 @@ social_icons:
 
 
 # Sidebar Avatar
-in directory: /assets/images/avatar.gif
+#in directory: /assets/images/avatar.gif
 avatar:
+  url: /assets/images/avatar.gif
   rounded: true
 
 # Table Of Contents in the Sidebar
