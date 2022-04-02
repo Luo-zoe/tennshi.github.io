@@ -743,4 +743,4 @@ images: assets/images
 version: 5.1.1
 
 custom_file_path:
-  style: _sass/_data/styles.styl
+  style: _sass/_data/styles.scss
