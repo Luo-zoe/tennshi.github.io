@@ -236,10 +236,10 @@ social_icons:
 
 
 # Sidebar Avatar
-#in directory: /assets/images/avatar.gif
-avatar:
-  url: https://github.com/Luo-zoe.png
-  rounded: true
+in directory: /assets/images/avatar.gif
+#avatar:
+#  url: https://github.com/Luo-zoe.png
+#  rounded: true
 
 # Table Of Contents in the Sidebar
 toc:
