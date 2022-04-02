@@ -741,3 +741,6 @@ images: assets/images
 
 # Theme version
 version: 5.1.1
+
+custom_file_path:
+  style: _sass/_data/styles.styl
