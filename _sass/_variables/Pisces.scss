@@ -12,6 +12,9 @@ $box-shadow                       : initial;
 $border-radius-inner              : initial;
 $border-radius                    : initial;
 
+// 修改主题页面布局为圆角
+$border-radius-inner : 15px 15px 15px 15px;
+$border-radius : 15px;
 
 // Header
 // --------------------------------------------------
@@ -73,7 +76,3 @@ $full-image-margin-vertical   : 0;
 $b2t-opacity                  : .6;
 $b2t-position-bottom          : -100px;
 $b2t-position-bottom-on       : 30px;
-
-// 修改主题页面布局为圆角
-$border-radius-inner = 15px 15px 15px 15px;
-$border-radius = 15px;
