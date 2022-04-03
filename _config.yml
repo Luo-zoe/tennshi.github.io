@@ -399,7 +399,7 @@ valine_comment:
 # app_key
   leancloud_appkey: IeoHaULOFtaOYvvDHQ07Crhx
 # placeholde
-  placeholder: “Just go go"
+  placeholder: “Just go go ~（支持Marddown）<br>温馨提示：评论无法删除，请慎重发言……"
 
 # <wildfire>
 wildfire:
