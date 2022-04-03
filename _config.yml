@@ -365,6 +365,10 @@ highlight_theme: normal
 # Third Party Services Settings
 # ---------------------------------------------------------------
 
+typing_effect:
+  colorful: true  # 礼花特效
+  shake: false  # 震动特效
+
 # MathJax Support
 mathjax:
   enable: false
