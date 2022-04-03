@@ -400,7 +400,7 @@ valine_comment:
   leancloud_appkey: IeoHaULOFtaOYvvDHQ07Crhx
   serverURLs: https://euobqfv9.lc-cn-n1-shared.com
 # placeholde
-  placeholder: “Just go go ~（支持Marddown）<br>温馨提示：评论无法删除，请慎重发言……"
+  placeholder: “Just go go ~（支持Markdown）温馨提示：评论无法删除……"
 
 # <wildfire>
 wildfire:
@@ -578,7 +578,7 @@ baidu_push: false
 # https://developers.google.com/google-apps/calendar/v3/reference/events/list
 calendar:
   enable: false
-  calendar_id: <required>
+  calendar_id: luozoe1@gmail.com
   api_key: <required>
   orderBy: startTime
   offsetMax: 24
