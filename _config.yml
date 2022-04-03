@@ -392,6 +392,15 @@ disqus:
   # count need to be false when hide is true
   hide: false
 
+valine_comment:
+  enable: true
+# app_id
+  leancloud_appid: euobQFV9FOjgh7MfDRaBY2kM-gzGzoHsz
+# app_key
+  leancloud_appkey: IeoHaULOFtaOYvvDHQ07Crhx
+# placeholde
+  placeholder: “Just go go"
+
 # <wildfire>
 wildfire:
   enable: false
