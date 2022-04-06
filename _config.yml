@@ -403,7 +403,7 @@ valine_comment:
   leancloud_appid: euobQFV9FOjgh7MfDRaBY2kM-gzGzoHsz
 # app_key
   leancloud_appkey: IeoHaULOFtaOYvvDHQ07Crhx
-  serverURLs: https://euobqfv9.lc-cn-n1-shared.com
+  serverURLs: serverURLs: https://euobQFV9.api.lncldglobal.com
 # placeholde
   placeholder: “Just go go ~（支持Markdown）温馨提示：评论无法删除……"
 
