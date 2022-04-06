@@ -11,7 +11,8 @@
         el: '#comments',
         app_id: '{{ site.valine_comment.leancloud_appid }}',   //这里变量的取值在网站配置文件里_config.yml
         app_key: '{{ site.valine_comment.leancloud_appkey }}', //这里变量的取值在网站配置文件里_config.yml
-        placeholder:'{{ site.valine_comment.placeholder }}'    //这里变量的取值在网站配置文件里_config.yml
+        placeholder:'{{ site.valine_comment.placeholder }}',    //这里变量的取值在网站配置文件里_config.yml
+        serverURLs: '{{ site.valine_comment.serverURLs }}'
     });</script>
 {% endif %}
 {% endunless %}
