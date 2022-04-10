@@ -188,7 +188,7 @@ font:
   # Fallback to `global` font settings.
   posts:
     external: true
-    family: Source Han Serif
+    family: Noto Serif SC
 
   # Font settings for Logo
   # Fallback to `global` font settings.
