@@ -6,8 +6,11 @@
     letter-spacing: 1px;
 //行间距
     line-height: 1.6;
-//段间距
-    margin-bottom: 8px;
+}
+
+.post-body p {
+    margin: 8px 0 0 0;
+//段落间距，p就是段落标签，margin后分别是上、右、下、左的间距，我只设上间距
 }
 
 //文章内容背景改成了半透明
