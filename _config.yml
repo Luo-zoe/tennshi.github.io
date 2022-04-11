@@ -406,6 +406,8 @@ valine_comment:
 #  serverURLs: https://euobQFV9.api.lncldglobal.com
 # placeholde
   placeholder: “Just go go ~（支持Markdown）温馨提示：评论无法删除……"
+  recordIP: true
+  enableQQ: true
 
 # <wildfire>
 wildfire:
