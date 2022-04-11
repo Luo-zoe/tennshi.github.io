@@ -15,7 +15,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:
+url: http://www.tennshi.tk
 baseurl:
 permalink: pretty
 
@@ -324,7 +324,7 @@ post_meta:
 post_wordcount:
   item_text: true
   wordcount: ture
-  min2read: true
+  min2read: false
   separated_meta: true
 
 # Wechat Subscriber
@@ -405,7 +405,7 @@ valine_comment:
   leancloud_appkey: IeoHaULOFtaOYvvDHQ07Crhx
 #  serverURLs: https://euobQFV9.api.lncldglobal.com
 # placeholde
-  placeholder: “Just go go ~（支持Markdown）温馨提示：评论无法删除……"
+  placeholder: “Just go go ~（[昵称]推荐使用QQ账号，[网站]选填……）"
   recordIP: true
   enableQQ: true
 
