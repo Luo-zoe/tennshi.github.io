@@ -13,10 +13,14 @@
         app_key: '{{ site.valine_comment.leancloud_appkey }}', //这里变量的取值在网站配置文件里_config.yml
         placeholder: '{{ site.valine_comment.placeholder }}',    //这里变量的取值在网站配置文件里_config.yml
         avatar: 'mp',
-        recordIP: true,
-        enableQQ: true'
+        recordIP: '{{site.valine_comment.recordIP}}',
+        enableQQ: '{{site.valine_comment.enableQQ}}'
         // serverURLs: '{{ site.valine_comment.serverURLs }}'
-    });</script>
+    });
+    $(document).on('ready pjax:beforeReplace', function (event) {
+        valine.setPath(pathname);
+    });
+</script>
 <style>
     /* valine 评论框增加背景图片 */
     #vcomments textarea {
