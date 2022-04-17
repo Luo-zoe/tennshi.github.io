@@ -101,9 +101,26 @@
     20%,40%,60%,80%{transform:scale(1.1);}
     50%,70%{transform:scale(1.1);}
 }
-#heart {
+.heart {
     animation: heartAnimate 1.33s ease-in-out infinite;
 }
 .with-love {
     color: rgb(255, 113, 168);
 }
+
+//友链居中
+.links-of-blogroll-title {
+  text-align: center;
+}
+
+//修改友情链接样式
+.links-of-blogroll-item a{
+  text-align: center;
+  color: #434343;
+  border-bottom: none;
+  &:hover {
+    color: #5073b8;
+    text-decoration: underline;
+  }
+}
+
