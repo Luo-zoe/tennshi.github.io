@@ -113,6 +113,18 @@
   text-align: center;
 }
 
+//友链文本颜色
+//将链接文本设置为蓝色，鼠标划过时文字颜色加深，并显示下划线
+.post-body p a{
+  text-align: center;
+  color: #434343;
+  border-bottom: none;
+  &:hover {
+    color: #5073b8;
+    text-decoration: underline;
+  }
+}
+
 //修改友情链接样式
 .links-of-blogroll-item a{
   text-align: center;
