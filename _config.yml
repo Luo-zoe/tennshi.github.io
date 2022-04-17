@@ -123,7 +123,6 @@ menu:
   about: /about/
   archives: /archives/
   tags: /tags/
-  links: /links/ || link
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -147,18 +146,6 @@ menu_icons:
 
 menu_badges:
   enable: true
-
-mylinks:
-
-- nickname: Fi9Coder  #友链名称
-  avatar: https://www.safeinfo.me/images/avatar.gif  #友链头像
-  site: https://www.safeinfo.me  #友链地址
-  info: 致力于Web安全与Python学习,研究,开发。  #友链说明
-  
-- nickname: Leaf's Blog
-  avatar: https://leafjame.github.io/images/beichen.png
-  site: https://leafjame.github.io
-  info: Java狮 北漂男 摄影 旅行 赚钱
   
 # ---------------------------------------------------------------
 # Scheme Settings
@@ -299,11 +286,12 @@ sidebar:
 
 
 # Blog rolls
-#links_title: Links
-#links_layout: block
-#links_layout: inline
-#links:
-  #Title: http://example.com/
+links_title: Links
+links_layout: block
+links_layout: inline
+links:
+  Sanarous: https://bestzuo.cn
+  
 
 
 # ---------------------------------------------------------------
